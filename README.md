@@ -2,6 +2,6 @@
 
 #### I'm a student who loves coding, mainly web related stuff
 
-- 🏢 I'm currently working on [Clippies.tv](https://clippies.tv)!
+- 🏢 I'm currently working for Syncore creating awesome websites :)
 - 📅 I use daily: `.js`, `.ts`, `.html`, `.css`, `.svg`, `.rs`, `.go`
-- 📗 Currently learning Rust
+- 📗 Currently learning Rust and Typescript
